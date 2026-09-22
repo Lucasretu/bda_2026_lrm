@@ -2,6 +2,8 @@
 ## Encabezado segundo nivel
 ### Encabezado tercer nivel
 
+Esto es texto normal
+
 Puedo poner **megrita** y *cursiva*
 
 **Listas no enumeradas**
@@ -22,3 +24,12 @@ En Python se imprime con la funcion `print()`
 ```python
 print("Hola mundo")
 ```
+
+## Repositorio
+
+Puedes ver el código fuente de este trabajo en [GitHub](https://github.com/Lucasretu/bda_2026_lrm)
+
+## Unidades de trabajo
+
+- [UT 1](./ut01/index.md)
+- [UT 2](./ut02/index.md)
